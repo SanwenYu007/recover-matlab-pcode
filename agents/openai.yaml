@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATLAB P-code Recovery"
+  short_description: "Recover MATLAB P-code with verified payload equivalence"
+  default_prompt: "Use $recover-matlab-pcode to recover readable MATLAB source from these local .p files and verify the result."
